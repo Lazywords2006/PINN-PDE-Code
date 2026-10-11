@@ -1,5 +1,7 @@
 # Basis-Invariant Neural Solver for 2D Bloch Spectral Clusters
 
+> **Repository scope (2026-10-11):** this repository now keeps code only. The manuscripts, `docs/`, `figures/`, `data/`, `artifacts/` and `results/` were moved to the workspace repository (`PINN-PDE`, folder `03_当前主线_BlockKyFanPINN/论文与证据/`); they remain in this repository's git history. Links below to those folders are historical. Evidence-integrity tests (`test_p1_*`, `test_p2_*`, `test_p4`, `test_p5_*`, `test_risk_*`, `test_v3_paper_figures`) need those folders restored at their original paths.
+
 This repository solves a genuine two-dimensional parametric Bloch–Schrödinger eigen-PDE with a
 label-free neural network. The target is the lowest rank-two spectral projector, not two globally
 ordered eigenfunctions at an internal band crossing.
