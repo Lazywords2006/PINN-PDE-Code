@@ -1,5 +1,7 @@
 # Repository guardrails
 
+- Code-only repository since 2026-10-11: `docs/`, `paper/`, `figures/`, `data/`, `artifacts/`, `results/` live in the workspace repository `PINN-PDE` under `03_当前主线_BlockKyFanPINN/论文与证据/`. Canonical status: `论文与证据/docs/CURRENT-STATUS.zh-CN.md` there.
+
 This is a scientific-computing repository with a completed one-shot V3 CUDA confirmation.
 
 - Canonical status: `docs/CURRENT-STATUS.zh-CN.md`.
